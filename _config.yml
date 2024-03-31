@@ -16,7 +16,7 @@ timezone: Europe/Rome
 
 title: TheseusCodes # the main title
 
-tagline: My blog  # it will display as the sub-title
+tagline: My personal blog. Programming, IT, Politics, and everything in between.  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   My personal blog. I'll write about programming, politics, trips, and whaterver else happens to me. 
